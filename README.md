@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript , Typescript , Data structures & Algorithms , HTML , CSS  , React , Redux.**
 
-- 📫 How to reach me LinkedIn ** <a color = "red" href="https://www.linkedin.com/in/mayur-shinde-9a713aa3/">LinkedIn</a> **
+- 📫 How to reach me <a color = "red" href="https://www.linkedin.com/in/mayur-shinde-9a713aa3/">LinkedIn</a> 
 
 <hr />
 
