@@ -15,6 +15,8 @@
 
 - 💬 Ask me about **Javascript , Typescript , Data structures & Algorithms , HTML , CSS  , React , Redux.**
 
+- 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
+
 - 📫 How to reach me <a color = "red" href="https://www.linkedin.com/in/mayur-shinde-9a713aa3/">LinkedIn</a> 
 
 <hr />
