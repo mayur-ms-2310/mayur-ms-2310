@@ -4,7 +4,7 @@
 </div>  
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h3 align="center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Mayur Shinde </h1>
-<p>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills </br> to build exciting and creative project.</p>
+<p>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills </br> to build exciting and creative project. I thrive on utilizing my peers’ and my combined experience to produce creative, elegant solutions to difficult problems.</p>
 
 
 </h3>
