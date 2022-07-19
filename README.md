@@ -1,5 +1,7 @@
-[![Mayur Shinde ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Mayur%20Shinde%20)](https://www.linkedin.com/in/mayur-shinde-9a713aa3/)
 
+<div align="center">
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 100%; height:100% " />
+</div>  
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h3 align="center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Mayur Shinde </h1>
 <p>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills </br> to build exciting and creative project.</p>
