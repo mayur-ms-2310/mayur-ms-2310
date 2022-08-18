@@ -17,7 +17,9 @@
 
 - 🥅 2022 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 
-- 📫 How to reach me <a color = "red" href="https://www.linkedin.com/in/mayur-shinde-9a713aa3/">LinkedIn</a> 
+- 📫 How to reach me <a color = "red" href="https://www.linkedin.com/in/mayur-shinde-9a713aa3/">LinkedIn</a>
+
+- 👨 My portfolio - https://mayurs-portfolio.netlify.app/
 
 <hr />
 
